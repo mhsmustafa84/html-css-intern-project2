@@ -1,0 +1,19 @@
+{
+  "name": "html-css-intern-project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhsmustafa84/html-css-intern-project2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhsmustafa84/html-css-intern-project2/issues"
+  },
+  "homepage": "https://mhsmustafa84.github.io/html-css-intern-project2"
+}
