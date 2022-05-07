@@ -1,1 +1,2 @@
-# html-css-intern-project2
+## Eraasoft training
+### MAIRALA free template using HTML and CSS
